@@ -1,0 +1,40 @@
+.container {
+    background-color: beige;
+    border: 1px solid black;
+    height: 300px;
+    width:50%;
+    margin: auto;
+}
+
+.container1 {
+    text-align: center;
+    border: 2px solid black;
+
+}
+
+#output {
+    text-align: center;
+    background-color: aliceblue;
+    
+
+}
+
+#increase{
+    display: inline-block;
+    margin-right: 170px;
+    
+}
+
+#reset{
+    display: inline-block;
+    margin-right:170px;
+}
+
+
+#decrease{
+    display: inline-block;
+    margin-right: 170px;
+}
+.container3{
+
+}
